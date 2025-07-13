@@ -74,6 +74,7 @@ Install these from Arduino Library Manager:
 **Rithvidas Rathish**  
 Embedded Systems | IoT | Firmware | AIoT  
 https://www.linkedin.com/in/rithvidas-rathish-embedded-firmware-developer/
+
 📫 Feel free to connect for collaborations!
 
 ---
